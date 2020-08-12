@@ -1,0 +1,798 @@
+1,loperamide,1
+2,Colesevelam,2
+3,Lomotil,3
+4,Imodium,4
+5,Dapsone,5
+6,Escitalopram,6
+7,Clonazepam,7
+8,Oxytrol,8
+9,Pregabalin,9
+10,Bupropion ,1
+11,Levonorgestrel,2
+12,Florastor,3
+13,Pepto-Bismol,4
+14,Nortriptyline,5
+15,Keppra,6
+16,Ropinirole,7
+17,Levaquin,8
+18,Desvenlafaxine,9
+19,Amitriptyline,1
+20,Metronidazole,2
+21,Risperidone,3
+22,Simponi Aria,4
+23,Elavil,5
+24,Prozac,6
+25,Lamisil,7
+26,Zoloft,8
+27,Fexofenadine,9
+28,Vortioxetine,1
+29,Minastrin 24 Fe,2
+30,Adzenys XR-ODT,3
+31,Clarithromycin,1
+32,Escitalopram,2
+33,Pentosan polysulfate sodium,3
+34,Lamictal,4
+35,Ramipril,5
+36,Drospirenone ,6
+37,Escitalopram,7
+38,Clonazepam,8
+39,Tegaserod,9
+40,Ashlyna,4
+41,Lisdexamfetamine,5
+42,Tioconazole,6
+43,Levofloxacin,9
+44,Tadalafil,1
+45,Ethinyl estradiol ,2
+46,Linzess,3
+47,Otezla,4
+48,Victoza,5
+49,Methadone,6
+50,Metronidazole,7
+51,Atomoxetine,8
+52,Copper,7
+53,Chlorhexidine,8
+54,Suboxone,9
+55,Tramadol,1
+56,Mirena,2
+57,Vyvanse,3
+58,Tri-Luma,4
+59,Methadone,5
+60,Azithromycin,6
+61,Venlafaxine,7
+62,Amitriptyline,8
+63,Levonorgestrel,9
+64,Ethinyl estradiol / levonorgestrel,1
+65,Campral,2
+66,Bactrim DS,3
+67,Linzess,4
+68,Buprenorphine,5
+69,Senna Plus,6
+70,Flomax,7
+71,Ortho Evra,8
+72,Ethinyl estradiol / levonorgestrel,9
+73,Venlafaxine,1
+74,Adderall,2
+75,Terbinafine,3
+76,Gabapentin,4
+77,Secobarbital,5
+78,Aluminum chloride hexahydrate,6
+79,Asenapine,7
+80,Penicillin v potassium,8
+81,Lutera,9
+82,Kyleena,1
+83,Ethinyl estradiol ,2
+84,Toradol,3
+85,Clarithromycin,4
+86,Aluminum chloride hexahydrate,5
+87,Gabapentin,6
+88,Plan B One-Step,7
+89,Levsin SL,8
+90,Benzoyl peroxide ,9
+91,Human papillomavirus vaccine,1
+92,Lortab,2
+93,Zoloft,3
+94,Dexmethylphenidate,4
+95,Catapres,5
+96,NuvaRing,6
+97,Sertraline,7
+98,Cyclobenzaprine,8
+99,Harvoni,9
+100,Lansoprazole,1
+101,Medroxyprogesterone,2
+102,Varenicline,3
+103,Sulfamethoxazole,4
+104,Ethinyl estradiol ,5
+105,Carbidopa ,6
+106,Hydrocodone,7
+107,salicylate,8
+108,Morphine,9
+109,Gabapentin enacarbil,1
+110,Bronkaid,2
+111,Quetiapine,3
+112,Niacin,4
+113,Paliperidone,5
+114,Sronyx,6
+115,Depo-Provera,7
+116,Mirena,8
+117,Fioricet,9
+118,Singulair,1
+119,Tiotropium,2
+120,Ethinyl estradiol ,3
+121,Xulane,4
+122,Lorcaserin,5
+123,Minastrin 24 Fe,6
+124,Teriparatide,7
+125,Sertraline,8
+126,Diclofenac,9
+127,Plan B One-Step,1
+128,Glatiramer,2
+129,Ammonium lactate,3
+130,Atenolol,4
+131,Testosterone,5
+132,Ethinyl estradiol ,6
+133,Cobicistat ,7
+134,Ethinyl estradiol ,8
+135,Medroxyprogesterone,9
+136,Duloxetine,1
+137,Tramadol,2
+138,Cepacol,3
+139,Phenol,4
+140,Chloraseptic sore throat spray,5
+141,Benzocaine,6
+142,Cepacol sore throat,7
+143,Chloraseptic sore throat lorgenzes,8
+144,Menthol,9
+145,Dyclonine,1
+146,Laryngesic,2
+147,Trocaine,3
+148,dycyclonine,4
+149,cepacol fizzlers,5
+150,Cheracol sore throat,6
+151,Vicks cough drops,7
+152,Phenylephrine,8
+153,Halls Mentho Lyptus drops,9
+154,Benzocaine,1
+155,Halls Mentho Lyptus drops,2
+156,Dyclonine,3
+157,Ibuprofen,1
+158,Trocaine,2
+159,Benzocaine,3
+160,Ludens honey lemon throat drops,4
+161,Cepacol,5
+162,N Ice,6
+163,Bumetanide,1
+164,Azilsartan,2
+165,Candesartan,3
+166,Eprosartan mesylate,4
+167,Irbesarten,5
+168,Chlorthalidone,6
+169,Losartin Potassium,7
+170,Olmesartan,8
+171,Chlorothiazide,9
+172,Telmisartan,1
+173,Valsartan,2
+174,Ethacrynate,3
+175,Indapamide,4
+176,Captopril,5
+177,Furosemide,6
+178,Torsemide,7
+179,Perindopril,8
+180,Indapamide,9
+181,Fosinopril,1
+182,Moexipril,2
+183,Methyclothiazide,3
+184,Trandolapril,1
+185,Ramipril,2
+186,Metolazone,3
+187,hydrochlorothiazide,4
+188,amiloride,5
+189,Prednisone,6
+190,Ciprofloxacin,7
+191,Carbidopa ,8
+192,Suprep Bowel Prep Kit,9
+193,Paracetamol,1
+194,Bayer Aspirin,2
+195,ibuprofen,3
+196,Ecotrin,4
+197,Anaprox,5
+198,naproxen,6
+199,Aspergum,7
+200,Anaprox DS,8
+201,Acetaminophen,9
+202,Acephen,1
+203,Naprosyn,2
+204,tylenol,3
+205,Mapap,4
+206,Paracetamol,5
+207,indomethacin,6
+208,Easprin,7
+209,Children's Mortin,8
+210,Advil liqui gels,9
+211,Anaprox,1
+212,Ecotrin,2
+213,ibuprofen,3
+214,Aleve,4
+215,Motrin,5
+216,Advil,6
+217,ibuprofen,7
+218,Acetamophen,8
+219,Mapop suspension,9
+220,Aciphex,1
+221,Protonix,2
+222,Omeprazole,3
+223,Prilosec,4
+224,Ranitidine,5
+225,Pantoprazole,6
+226,Sucralfate,7
+227,Cytotec,8
+228,Carafate,9
+229,Pepcid,1
+230,Zantac 150,2
+231,Aciphex,3
+232,Prevacid,4
+233,Famotidine,5
+234,Protonix,6
+235,Zegerid,7
+236,Zantac,8
+237,Ranitidine,9
+238,Rabeprazole,1
+239,Pepcid AC,2
+240,Prilosec,3
+241,Protonix IV,4
+242,Lansoprazole,5
+243,Sucralfate,6
+244,Omeprazole,7
+245,Amphojel,8
+246,Zantac,9
+247,Vicodin ES,1
+248,Tessalon,2
+249,Guaifenesin,3
+250,Gabapentin,4
+251,Amitriptyline,5
+252,Dextromethorphan,6
+253,Hydromorphone,7
+254,Acetaminophen,8
+255,Benzonatate,9
+256,Mucinex,1
+257,Promethazine DM,2
+258,Tessalon Perles,3
+259,Hycodan,4
+260,Delsym,5
+261,Codeine,6
+262,Hydromet,7
+263,Dilaudid,8
+264,Dextromethorphan,9
+265,Guaifenesin,1
+266,Dextromethorphan,2
+267,Benzonatate,3
+268,Hycodan,4
+269,Promethazine,5
+270,Lortab,6
+271,Diphenhydramine,7
+272,Dextromethorphan,8
+273,Codeine,9
+274,Naproxen,1
+275,Motrin,2
+276,Acetaminophen,3
+277,Trazodone,1
+278,Naprelan,2
+279,Acetaminophen,3
+280,Advil liqui gels,4
+281,Anaprox,5
+282,Fioricet,6
+283,Percogesic,7
+284,Mortin IB,8
+285,Naprelan,9
+286,Aspirin,1
+287,Butalbital,2
+288,Acetaminophen,3
+289,Anaprox,4
+290,Advil liqui gels,5
+291,Fioricet,6
+292,Aleve,7
+293,IBU,8
+294,Acetaminophen,9
+295,Actiprofen,4
+296,Haltran,5
+297,Acetaminophen,6
+298,Dologesic,7
+299,Exerdin tension headache,8
+300,Indomethacin,9
+301,Amitriptyline,1
+302,Acetaminophen,2
+303,Motrin,3
+304,Inderal,4
+305,Topiromat,5
+306,Levitiracetam,6
+307,Topamax,7
+308,Sumatriptan nasal spray,8
+309,Levitiracetam,9
+310,Riboflavin,1
+311,Amitriptylin,2
+312,Flunarizine,3
+313,Topiramate,4
+314,Chinnarizine,5
+315,Ketorolac,6
+316,Topiramate,1
+317,Inderal,2
+318,Riboflavin,3
+319,Topamax,4
+320,Ketorolac,5
+321,Chinnarizine,6
+322,Rizatriptan,7
+323,Flunarizine,8
+324,Peritole,9
+325,Eletriptan,7
+326,Peritole,8
+327,Propranolol,9
+328,Ambien,1
+329,Trazodone,2
+330,,3
+331,Trazodone,1
+332,Restoril,2
+333,Diphenhydramine,3
+334,Ambien,4
+335,Restoril,5
+336,Diphenhydramine,6
+337,Diphenhydramine,7
+338,Ambien,8
+339,Restoril,9
+340,Ambien,1
+341,Trazodone,2
+342,Restoril,3
+343,Suvorexant,4
+344,Trazodone,5
+345,Restoril,6
+346,Ambien,7
+347,Trazodone,8
+348,Restoril,9
+349,Belsomra,1
+350,Trazodone,2
+351,Restoril,3
+352,Belsomra,4
+353,Trazodone,5
+354,Suvorexant,6
+355,Contrave,1
+356,Garcinia Cambogia Extract,2
+357,Hydroxycut,3
+358,Belviq,4
+359,Caffeine,5
+360,Orlistat,6
+361,Phentermine,7
+362,Alli,8
+363,Raspberry Ketones,9
+364,Belviq,1
+365,Green Coffee Bean Extract,2
+366,Glucomannan,3
+367,Adipex-P,4
+368,Meratrim,5
+369,Green Tea Extract,6
+370,Adipex-P,1
+371,Conjugated Linoleic Acid(CLA),2
+372,Forskolin,3
+373,Liraglutide,4
+374,Bitter Orange,5
+375,Didrex,6
+376,Qsymia,7
+377,Synephrine,8
+378,Adipex,9
+379,Phentermine,7
+380,Qsymia,8
+381,Meratrim,9
+382,Montelukast,1
+383,Albuterol,2
+384,levalbuterol,3
+385,Prednisone,4
+386,ProAir HFA,5
+387,Metaproterenol,6
+388,Advair HFA,7
+389,Terbutaline,8
+390,Proventil HFA,9
+391,Dulera,1
+392,Ventolin HFA,2
+393,Xopenex HFA,3
+394,Montelukast,4
+395,Singulair,5
+396,Montelukast,6
+397,Singulair,7
+398,Prednisone,8
+399,Dulera,9
+400,Singulair,1
+401,Atrovent,2
+402,Ipratropium,3
+403,Singulair,4
+404,Breo Ellipta,5
+405,Alvesco,6
+406,Albuterol,7
+407,Kenalog-40,8
+408,Rayos,9
+409,Fluorouracil,1
+410,Efudex,2
+411,Aldara,3
+412,Fluorouracil,4
+413,Solaraze,5
+414,Picato,6
+415,Zyclara,7
+416,Imiquimod,8
+417,Diclofenac,9
+418,Fluorouracil,1
+419,Santyl,2
+420,Levulan Kerastick,3
+421,Zyclara,4
+422,Collagenase Santyl,5
+423,Ingenol,6
+424,Carac,7
+425,Klofensaid II,8
+426,Xrylix,9
+427,Fluoroplex,1
+428,Collagenase,2
+429,Tolak,3
+430,Fluorouracil,4
+431,Aminolevulinic acid,5
+432,Ingenol,6
+433,Fluorouracil,7
+434,Santyl,8
+435,Methyl Aminolevulinate,9
+436,Nuvigil,1
+437,Adderall,2
+438,Provigil,3
+439,Sodium oxybate,4
+440,Modafinil,5
+441,Ritalin,6
+442,Methylphenidate,7
+443,Xyrem,8
+444,Adderall XR,9
+445,Ritalin,1
+446,Methylphenidate,2
+447,Dexedrine,3
+448,Armodafinil,4
+449,Concerta,5
+450,Dextroamphetamine,6
+451,Adderall XR,7
+452,Methylin,8
+453,Sodium oxybate,9
+454,Armodafinil,1
+455,Desvenlafaxine,2
+456,Methylin ER,3
+457,Provigil,4
+458,Ritalin SR,5
+459,Amphetamine,6
+460,Dextrostat,7
+461,Armodafinil,8
+462,Zenzedi,9
+463,Afrezza,1
+464, Chlorpropamide,2
+465,Glibenclamide,3
+466,Insulin inhalation,4
+467,Gliclazide,5
+468,Tolbutamide,6
+469,DDAVP Rhinal Tube,7
+470,Glimepiride,8
+471,Metformin,9
+472,Basaglar,1
+473,Acarbose,2
+474,Repaglinide ,3
+475,Insulin glargine,4
+476,Rosiglitazone,5
+477,Bromocriptine,6
+478,Tresiba,7
+479,Alogliptin-pioglitazone,8
+480,Canagliflozin-metformin,9
+481,Humulin N,1
+482,Dapagliflozin,2
+483,Dapagliflozin-metformin (,3
+484,Lantus,4
+485,Dulaglutide,5
+486,Empagliflozin,6
+487,Octreotide,7
+488,Empagliflozin-linagliptin,8
+489,Empagliflozin-metformin,9
+490,Klonopin,1
+491,olanzapine,2
+492,venlafaxine,3
+493,Aripiprazole,4
+494,risperidone,5
+495,sertraline,6
+496,Lurasidone,7
+497,Depakote ER,8
+498,oxcarbazepine,9
+499,Lamotrigine,1
+500,   Zyprexa,2
+501,Saphris,3
+502,Gabapentin,4
+503,bupropion,5
+504,Geodon,6
+505,Aripiprazole,7
+506,Seroquel XR,8
+507,divalproex sodium,9
+508,Lurasidone,1
+509,citalopram,2
+510,carbamazepine,3
+511,Quetiapine,4
+512,ziprasidone,5
+513,escitalopram,6
+514,Quetiapine,7
+515,clonidine,8
+516,duloxetine,9
+517,Promethazine,1
+518,Meni-D,2
+519,Haldol,3
+520,Doxylamine,4
+521,Thorazine,5
+522,Tigan,6
+523,Ondansetron,1
+524,"	Dramamine II",2
+525,Antinaus 50,3
+526,Prochlorperazine,4
+527,Meclicot,5
+528,Dramamine Less Drowsy,6
+529,Ondansetron,7
+530,Transderm-Scop,8
+531,Phenadoz,9
+532,Ondansetron,7
+533,Allermax,8
+534,Travel-Ease,9
+535,Zofran,1
+536,Benadryl Children's Allergy,2
+537,Banophen,3
+538,Phenergan,4
+539,Complete Allergy Relief,5
+540,chlorpromazine,6
+541,Diphedryl,7
+542,orlistat,8
+543,Dicopanol,9
+544,Phentermine,1
+545,"	bupropion / naltrexone",2
+546,Topiragen,3
+547,Phentermine,4
+548,"	liraglutide",5
+549,chorionic gonadotropin,6
+550,Orlistat,7
+551,"	Topamax Sprinkle",8
+552,methylphenidate,9
+553,Contrave,1
+554,benzphetamine,2
+555,Atti-Plex P,3
+556,Qsymia,4
+557,Evekeo,5
+558,cimetidine,6
+559,Bupropion,7
+560,Tenuate Dospan,8
+561,Belviq XR,9
+562,Lorcaserin,1
+563,desvenlafaxine,2
+564,amphetamine,3
+565,Qsymia,4
+566,Obezine,5
+567,Equaline Acid Reducer,6
+568,Liraglutide,7
+569,Prelu-2,8
+570,Phendiet,9
+571,Mirtazapine,1
+572,paroxetine,2
+573,Viibryd,3
+574,Escitalopram,4
+575,Wellbutrin SR,5
+576,Remeron,6
+577,Zoloft,7
+578,mirtazapine,8
+579,Paxil,9
+580,Effexor XR,1
+581,trazodone,2
+582,Effexor,3
+583,Venlafaxine,4
+584,"	duloxetine",5
+585,Pristiq,6
+586,escitalopram,7
+587,venlafaxine,8
+588,Abilify,9
+589,Xanax,8
+590,Bupropion,9
+591,amitriptyline,2
+592,"Seroquel XR	",3
+593,alprazolam,10
+594,Deplin,2
+595,lamotrigine,5
+596,Zoloft,8
+597,quetiapine,9
+598,Clonazepam,1
+599,Benzoyl peroxide / clindamycin,2
+600,Etonogestrel,3
+601,Miconazole,1
+602,Etonogestrel,2
+603,Ortho Tri-Cyclen Lo,3
+604,Tofacitinib,4
+605,Cryselle,5
+606,Ziprasidone,6
+607,Bactrim,1
+608,Sertraline,2
+609,Aluminum chloride hexahydrate,3
+610,ParaGard,4
+611,Pregabalin,5
+612,Aviane,6
+613,Inderal,1
+614,Tioconazole,2
+615,Orthovisc,3
+616,Marezine,4
+617,Levonorgestrel,5
+618,Minoxidil,6
+619,Humira,7
+620,Acetaminophen,8
+621,Lo Loestrin Fe,9
+622,Copper,1
+623,Bupropion,1
+624,Bacitracin / neomycin / polymyxin b,2
+625,Yaz,3
+626,Copper,4
+627,Jolessa,5
+628,Guaifenesin / pseudoephedrine,6
+629,Oxycodone,7
+630,Bupropion,1
+631,Brisdelle,2
+632,Loratadine,3
+633,Loratadine,4
+634,Nasonex,5
+635,Loratadine,6
+636,Miconazole,7
+637,Baclofen,1
+638,Metaxalone,2
+639,Methocarbamol,3
+640,Oxazepam,4
+641,Carisoprodo,5
+642,Cyclobenzaprine,6
+643,Dantrolene,7
+644,Tizanidine,8
+645,Orphenadrine,9
+646,Baclofen,1
+647,Carisoprodol,2
+648,Orphenadrine,3
+649,Metaxalone,4
+650,Quinine,5
+651,Tizanidine,6
+652,Loratadine,7
+653,Bupropion,8
+654,Nasonex,9
+655,Loratadine,1
+656,Miconazole,2
+657,Valium,3
+658,Benzodiazepines,4
+659,Chlorzoxazone,5
+660,Metaxalone,6
+661,Tizanidine,7
+662,Soma,8
+663,Diazepam,9
+664,Augmentin,1
+665,Qsymia,2
+666,Provera,3
+667,Nexplanon,4
+668,Varenicline,5
+669,Adderall,6
+670,Acamprosate,7
+671,Suboxone,8
+672,Correctol,9
+673,Celestone,1
+674,Myrbetriq,2
+675,Sulfamethoxazole ,3
+676,Oxycodone,4
+677,Campral,5
+678,Vyvanse,6
+679,Methadone,7
+680,Quetiapine,8
+681,Tizanidine,9
+682,Sulfamethoxazole ,1
+683,Metoclopramide,2
+684,Junel Fe 1.5 / 30,3
+685,Clindamycin,4
+686,Mirena,5
+687,Loestrin 24 Fe,6
+688,Pristiq,7
+689,Benazepril,8
+690,Epiduo,9
+691,Ibrance,1
+692,Alprazolam,2
+693,Pantoprazole,3
+694,Reglan,4
+695,Citalopram,5
+696,Topiramate,6
+697,Levonorgestrel,7
+698,Ethinyl estradiol ,8
+699,Valproic acid,9
+700,Nortriptyline,1
+701,ella,2
+702,Patanase,3
+703,Dextromethorphan,4
+704,Abilify,5
+705,Pregabalin,6
+706,Venlafaxine,7
+707,Amitiza,8
+708,Creon,9
+709,Ethinyl estradiol ,1
+710,Suprep Bowel Prep Kit,2
+711,Bupropion ,3
+712,Ambien,4
+713,Clobetasol,5
+714,Liraglutide,6
+715,Nexplanon,7
+716,Etonogestrel,8
+717,Dextromethorphan ,9
+718,Qsymia,1
+719,Bactrim,2
+720,Bactrim,3
+721,Fluoxetine,4
+722,Ciprofloxacin,5
+723,Indocin SR,6
+724,Xolair,7
+725,Sertraline,8
+726,Corticotropin,9
+727,Veltin,1
+728,Zolpidem,2
+729,Acetaminophen ,3
+730,Desvenlafaxine,4
+731,Abilify,5
+732,Contrave,6
+733,Cymbalta,7
+734,Ethinyl estradiol ,8
+735,Aczone,9
+736,Bupropion,1
+737,Aluminum chloride hexahydrate,2
+738,Mexiletine,3
+739,Dabigatran,4
+740,Contrave,5
+741,Valacyclovir,6
+742,Silenor,7
+743,Medroxyprogesterone,8
+744,Microgestin 1 / 20,9
+745,TriNessa,1
+746,Etonogestrel,2
+747,Sertraline,3
+748,Ertaczo,1
+749,Minipress,2
+750,Risperdal,3
+751,Tramadol,4
+752,Xanax,5
+753,Alesse,6
+754,Duloxetine,7
+755,Zoledronic acid,8
+756,Multivitamin with minerals,9
+757,Doxycycline,1
+758,Vortioxetine,2
+759,Linzess,3
+760,Mirena,4
+761,Miconazole,5
+762,Levonorgestrel,6
+763,Seasonale,7
+764,Bupropion,8
+765,Ethinyl estradiol,9
+766,Abilify,1
+767,Ethinyl estradiol ,2
+768,Cymbalta,3
+769,Quetiapine,4
+770,Oxytrol,5
+771,Zaleplon,6
+772,vancomycin,1
+773,cefuroxime,2
+774,"	Biaxin",3
+775,"	Flagyl",1
+776,Flagyl,2
+777,Levofloxacin,3
+778,Cipro,1
+779,erythromycin,2
+780,Azithromycin,3
+781,Amoxicillin,4
+782,Avelox,5
+783,"	Vibra-Tabs",6
+784,Cipro I.V.,4
+785,Ciprofloxacin,5
+786,Clindamycin,6
+787,Cefotaxime,4
+788,"	Flagyl IV",5
+789,amikacin,6
+790,Ceftin,4
+791,"	Septra",5
+792,Ancef,6
+793,Augmentin ES-600,7
+794,Cefdinir,8
+795,"	gentamicin",9
+796,Penicillin VK,7
+797,Claforan,8
+798,Vancocin HCl Pulvules,9
